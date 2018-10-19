@@ -1,4 +1,4 @@
- Python程式設計{基礎課程}
+# Python程式設計{基礎課程}
 [1]輸入與輸出 USER INPUTS AND OUTPUTS:
 [1.1]輸入:input | Raw_input
 raw_input([prompt]) 函數從標準輸入讀取一個行，並返回一個字串（去掉結尾的分行符號）
